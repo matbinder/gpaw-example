@@ -2,7 +2,6 @@ channels:
 - conda-forge
 dependencies:
 - python
-- nglview
 - notebook
 - ase
 - gpaw
